@@ -1,0 +1,5 @@
+﻿  CodeBattleCpp.cpp
+d:\codebattle\codebattle-bomberman-clients-master\codebattlecpp\codebattlecpplibrary\battlecityblocks.h(55): warning C4566: character represented by universal-character-name '\u25CA' cannot be represented in the current code page (1251)
+d:\codebattle\codebattle-bomberman-clients-master\codebattlecpp\codebattlecpplibrary\battlecityblocks.h(56): warning C4566: character represented by universal-character-name '\u263A' cannot be represented in the current code page (1251)
+d:\codebattle\codebattle-bomberman-clients-master\codebattlecpp\codebattlecpp\codebattlecpp.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CodeBattleCpp.vcxproj -> D:\codebattle\codebattle-bomberman-clients-master\CodeBattleCpp\x64\Debug\CodeBattleCpp.exe
